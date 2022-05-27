@@ -1,0 +1,3 @@
+C:/Users/progr/Desktop/Сложности/GitHub/fraction_emulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/progr/Desktop/Сложности/GitHub/fraction_emulation/cmake-build-debug/CMakeFiles/fraction_emulation.dir
+C:/Users/progr/Desktop/Сложности/GitHub/fraction_emulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
